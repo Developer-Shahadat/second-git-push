@@ -1,0 +1,14 @@
+body{
+    background-color: tomato;
+}
+center{
+    color: green;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 900;
+}
+p{
+    color: aquamarine;
+    font-size: 20px;
+    font-weight: 600;
+}
